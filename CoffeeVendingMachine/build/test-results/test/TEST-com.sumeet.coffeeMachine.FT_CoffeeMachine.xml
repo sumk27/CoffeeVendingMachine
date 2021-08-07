@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.sumeet.coffeeMachine.FT_CoffeeMachine" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-08-07T14:21:46" hostname="LONGB0707-MBP" time="0.023">
+  <properties/>
+  <testcase name="testValidCases()" classname="com.sumeet.coffeeMachine.FT_CoffeeMachine" time="0.013"/>
+  <testcase name="testWrongOrder()" classname="com.sumeet.coffeeMachine.FT_CoffeeMachine" time="0.001"/>
+  <testcase name="testForLowIngredient()" classname="com.sumeet.coffeeMachine.FT_CoffeeMachine" time="0.001"/>
+  <testcase name="testCannotServeDrinkDueToIngredientNotPresent()" classname="com.sumeet.coffeeMachine.FT_CoffeeMachine" time="0.001"/>
+  <testcase name="testCannotServeDrinkDueToLowIngredient()" classname="com.sumeet.coffeeMachine.FT_CoffeeMachine" time="0.003"/>
+  <system-out><![CDATA[Low hot_milk 
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
